@@ -1,0 +1,17 @@
+1)whar is a container ?
+ container is a way to package our application with all the neccessary dependencies and           configuaration.
+
+2)what is docker ?
+docker is a open source containerization tool that enabvles developers to build , deploy, run upadate and mange containers.
+
+3)what is docker image ?
+
+docker image is a read only template that contains set of instructions for creating container that can run on the docker platform.
+
+
+4) how to pull docker images to locally?
+   docker pull imagename
+ 
+5) docker ps    --->command used to list the all running containers.
+6) docker ps -a ---> command used to list all running and stopped containers 
+ 
